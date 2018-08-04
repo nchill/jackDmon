@@ -1,0 +1,11 @@
+Using Katoolin
+1. wireshark
+2. Sqlmap
+3. Burp Suite
+4. Dirb
+5. vega
+6. Hash-identifier
+7. findmyhash
+8. wordlists
+9. android-sdk
+10. metapsloit-framework using apt
