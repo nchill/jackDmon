@@ -1,0 +1,9 @@
+namp -sC -sV -O 
+
+-sC default scripts
+-sV service version detection
+-O OS
+-A enable OS detection, version detection, script scanning and traceroute
+-v increase verbosity level
+
+-A t4 -v
