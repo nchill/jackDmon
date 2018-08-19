@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Sat Aug 18 14:26:11 2018 as: nmap -sV -sC -oA popcorn-nmap 10.10.10.6
+Host: 10.10.10.6 ()	Status: Up
+Host: 10.10.10.6 ()	Ports: 22/open/tcp//ssh//OpenSSH 5.1p1 Debian 6ubuntu2 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.2.12 ((Ubuntu))/	Ignored State: closed (998)
+# Nmap done at Sat Aug 18 14:26:22 2018 -- 1 IP address (1 host up) scanned in 10.84 seconds

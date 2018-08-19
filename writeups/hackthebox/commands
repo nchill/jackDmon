@@ -7,3 +7,8 @@ namp -sC -sV -O
 -v increase verbosity level
 
 -A t4 -v
+
+
+dirb http://website/ path
+
+

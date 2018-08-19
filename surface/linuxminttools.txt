@@ -3,3 +3,7 @@
 katoolin
 virtualbox
 shutter
+
+
+Hashcat
+https://github.com/hashcat/hashcat/blob/master/BUILD.md
