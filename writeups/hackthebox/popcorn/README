@@ -3,12 +3,16 @@ nmap port scan
 image
 
 
-ports open 22,80\
+ports open 22,80
 
 
 dirbuster
 
-output reveals severa pages hidden
+output reveals several pages hidden
+
+10.10.10.6/torrent
+
+upload any torrent file
 
 
 

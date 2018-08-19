@@ -1,0 +1,27 @@
+2018 black hat tools list
+
+     https://github.com/1522402210/2018-BlackHat-Tools-List
+     
+Payload links
+     https://github.com/foospidy/payloads
+
+
+Python pty shells
+   https://github.com/infodox/python-pty-shells
+   https://github.com/infodox/exploits
+
+
+empire/readteamingtoolkit
+    https://github.com/infosecn1nja
+
+
+payload of all things
+  https://github.com/swisskyrepo/PayloadsAllTheThings\
+
+
+
+https://github.com/infoslack/awesome-web-hacking
+https://github.com/qazbnm456/awesome-cve-poc
+
+
+https://github.com/WindowsExploits/Explo

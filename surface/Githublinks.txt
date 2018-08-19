@@ -1,6 +1,0 @@
-2018 black hat tools list
-
-     https://github.com/1522402210/2018-BlackHat-Tools-List
-     
-Payload links
-     https://github.com/foospidy/payloads
