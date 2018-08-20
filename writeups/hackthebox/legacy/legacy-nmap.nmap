@@ -1,2 +1,6 @@
-# Nmap 7.70 scan initiated Sun Aug 19 19:15:15 2018 as: nmap -sC -sV -oA legacy-nmap 10.10.10.4
-# Nmap done at Sun Aug 19 19:15:19 2018 -- 1 IP address (0 hosts up) scanned in 3.36 seconds
+# Nmap 7.70 scan initiated Mon Aug 20 17:52:10 2018 as: nmap -Pn -oA legacy-nmap 10.10.10.4
+Nmap scan report for 10.10.10.4
+Host is up.
+All 1000 scanned ports on 10.10.10.4 are filtered
+
+# Nmap done at Mon Aug 20 17:55:32 2018 -- 1 IP address (1 host up) scanned in 201.37 seconds

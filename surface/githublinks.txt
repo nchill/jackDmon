@@ -32,3 +32,12 @@ https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniqu
 https://github.com/GDSSecurity/Windows-Exploit-Suggester
 https://github.com/fireeye/SessionGopher
 https://github.com/411Hall/JAWS
+
+
+
+
+
+
+
+Guide:
+https://www.sploitspren.com
