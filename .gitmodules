@@ -1,0 +1,3 @@
+[submodule "gitrepo/nishang"]
+	path = gitrepo/nishang
+	url = https://github.com/samratashok/nishang.git
