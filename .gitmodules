@@ -1,3 +1,9 @@
 [submodule "gitrepo/nishang"]
 	path = gitrepo/nishang
 	url = https://github.com/samratashok/nishang.git
+[submodule "gitrepo/PayloadsAllTheThings"]
+	path = gitrepo/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "gitrepo/python-pty-shells"]
+	path = gitrepo/python-pty-shells
+	url = https://github.com/infodox/python-pty-shells
