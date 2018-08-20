@@ -25,3 +25,10 @@ https://github.com/qazbnm456/awesome-cve-poc
 
 
 https://github.com/samratashok/nishang
+
+Priv ESC:
+https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
+
+https://github.com/GDSSecurity/Windows-Exploit-Suggester
+https://github.com/fireeye/SessionGopher
+https://github.com/411Hall/JAWS
