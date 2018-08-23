@@ -41,3 +41,20 @@ https://github.com/411Hall/JAWS
 
 Guide:
 https://www.sploitspren.com
+
+
+
+
+OSCP PREP:
+https://github.com/Shiva108/CTF-notes/tree/master/OSCP-Materials-master
+https://github.com/ihack4falafel/OSCP
+https://github.com/gajos112/OSCP
+https://github.com/ferreirasc/oscp
+https://github.com/markszabo/MyOSCPexperience
+https://github.com/so87/OSCP-PwK
+https://gist.github.com/cokebottle/3e0916522dc09086ee45e5a93d664f16
+https://github.com/codingo/OSCP-2
+https://github.com/Eudoxier/security-utilities/tree/master/python
+https://github.com/s0wr0b1ndef/OSCP-note
+
+https://jhalon.github.io/OSCP-Review/
