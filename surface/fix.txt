@@ -1,4 +1,0 @@
-Virtualbox Linux -- adding vbox users for usb 
-
-
-    sudo usermod -a -G vboxusers $USER
